@@ -1,2 +1,2 @@
 # libft
-The subject is available in the repo.
+The libft subject is available above in this repo.
