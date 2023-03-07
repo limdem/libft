@@ -1,3 +1,3 @@
 # libft
 
-The project subject is explained in en.subject.pdf
+You can have a look at the project subject in the en.subject.pdf file
